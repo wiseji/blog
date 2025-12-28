@@ -87,3 +87,7 @@ timeZone = "Asia/Seoul"
 #   [Params.widgets.search.input]
 #     name = "sitesearch"
 #     pre = ""
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
