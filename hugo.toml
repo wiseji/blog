@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wiseji.github.io/blog/'
 title = "WISEJI"
 languageCode = 'ko-kr'
 # paginate = "10" # Number of posts per page # 에러
