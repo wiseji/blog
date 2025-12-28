@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/blog-setup/</loc>
+    <loc>https://wiseji.github.io/blog/tags/blog-setup/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/devlog/building-a-static-site-with-hugo-part-1/</loc>
+    <loc>https://wiseji.github.io/blog/devlog/building-a-static-site-with-hugo-part-1/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://wiseji.github.io/blog/categories/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/devlog/</loc>
+    <loc>https://wiseji.github.io/blog/categories/devlog/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/devlog/</loc>
+    <loc>https://wiseji.github.io/blog/devlog/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hugo/</loc>
+    <loc>https://wiseji.github.io/blog/tags/hugo/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/static-site/</loc>
+    <loc>https://wiseji.github.io/blog/tags/static-site/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://wiseji.github.io/blog/tags/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/theme-setup/</loc>
+    <loc>https://wiseji.github.io/blog/tags/theme-setup/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://wiseji.github.io/blog/</loc>
     <lastmod>2025-12-27T22:47:12+09:00</lastmod>
   </url><url>
-    <loc>https://example.org/examples/</loc>
+    <loc>https://wiseji.github.io/blog/examples/</loc>
     <lastmod>2025-12-26T20:14:00+09:00</lastmod>
   </url>
 </urlset>
