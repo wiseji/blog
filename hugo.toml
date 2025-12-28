@@ -1,0 +1,89 @@
+baseURL = 'https://example.org/'
+title = "WISEJI"
+languageCode = 'ko-kr'
+# paginate = "10" # Number of posts per page # 에러
+theme = "mainroad"
+timeZone = "Asia/Seoul"
+
+# [services.disqus]
+#   shortname = "" # Enable Disqus by entering your Disqus shortname
+# [services.googleAnalytics]
+#   ID = "" # Enable Google Analytics by entering your tracking ID
+
+# 에러
+# [Author] # Used in authorbox
+#   name = "WiseJi"
+#   bio = "Studying  AI, CS, statistics, and so on."
+#   # avatar = "....png"
+
+[Params]
+  description = "Blog about AI, CS, statistics, development, etc." # Site description. Used in meta description
+  copyright = "WiseJi"  # Footer copyright holder, otherwise will use site title
+  opengraph = false     # Enable OpenGraph
+  schema = false        # Enable schema
+  twitter_cards = false # Enable Twitter Cards
+  readmore = false      # Show "Read more" button in list
+  # authorbox = true    # Show authorbox at bottom of pages
+  toc = true    # Enable Table of Contents
+  pager = true  # Show pager navigation (prev/next links) at the bottom of pages
+  post_meta = ["categories", "date"]  # Order of post meta information #translation, author 도 있는데... 나중에 추가해보자
+  # mainSections = [...]      # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "06-01-02 15:04" # Change the format of dates
+  # mathjaxPath = "..." # Specify MathJax mathjax path
+  # mathjaxConfig = ""  # Specify MathJax config
+  # googleFontsLink = "" # Load Google Fonts
+  # customCSS = [""] # Include custom CSS files
+  # customJS = [""]  # Include custom JS files
+  math = true
+
+[Params.style.vars]
+  highlightColor = "#234a76ff"  # Override highlight color # e22d30
+  # Override font-family sets
+  # 생략
+
+[Params.logo]
+  # image = ""  # Logo image. Path relative to "static"
+  title = "WISEJI" # Logo title, otherwise will use site title
+  subtitle = "NOTES ON AI, CS, STATISTICS & DEVELOPMENT"  # Logo subtitle
+
+# [Params.thumbnail]
+  # visibility = ["list", "post"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = "right"    # Configure layout for home page
+  list = "right"    # Configure layout for list pages
+  single = false    #"right"  # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "categories", "taglist", "recent", "social"] #"languages"도 있음
+
+[Params.widgets]
+  recent_num = 5              # Set the number of articles in the "Recent articles" widget
+  categories_counter = true   # Enable counter for each category in "Categories" widget
+  tags_counter = true         # Enable counter for each tag in "Tags" widget
+
+[Params.widgets.social]
+  cached = false  # activate cache
+  # Enable parts of social widget
+  # facebook = "username"
+  # twitter = "username"
+  # instagram = "username"
+  # linkedin = "username"
+  # telegram = "username"
+  github = "wiseji"
+  # gitlab = "username"
+  # bitbucket = "username"
+  # email = "24bae@ewha.ac.kr"
+
+# # Custom social links
+# [[Params.widgets.social.custom]]
+#   title = "GitHub"
+#   url = "https://github.com/wiseji"
+#   # icon = ".svg" # Optional. Path relative to "layouts/partials"
+#   # rel = false # Set to false to remove the rel attribute
+
+# [Params.widgets.search]
+#   cached = false # activate cache if true
+#   url = "https://google.com/search"
+#   [Params.widgets.search.input]
+#     name = "sitesearch"
+#     pre = ""

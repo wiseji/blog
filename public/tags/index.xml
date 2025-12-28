@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on WISEJI</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on WISEJI</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 27 Dec 2025 22:47:12 +0900</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Setup</title>
+      <link>https://example.org/tags/blog-setup/</link>
+      <pubDate>Sat, 27 Dec 2025 22:47:12 +0900</pubDate>
+      <guid>https://example.org/tags/blog-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://example.org/tags/hugo/</link>
+      <pubDate>Sat, 27 Dec 2025 22:47:12 +0900</pubDate>
+      <guid>https://example.org/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site</title>
+      <link>https://example.org/tags/static-site/</link>
+      <pubDate>Sat, 27 Dec 2025 22:47:12 +0900</pubDate>
+      <guid>https://example.org/tags/static-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme Setup</title>
+      <link>https://example.org/tags/theme-setup/</link>
+      <pubDate>Sat, 27 Dec 2025 22:47:12 +0900</pubDate>
+      <guid>https://example.org/tags/theme-setup/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

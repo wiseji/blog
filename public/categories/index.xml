@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on WISEJI</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on WISEJI</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 27 Dec 2025 22:47:12 +0900</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevLog</title>
+      <link>https://example.org/categories/devlog/</link>
+      <pubDate>Sat, 27 Dec 2025 22:47:12 +0900</pubDate>
+      <guid>https://example.org/categories/devlog/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
